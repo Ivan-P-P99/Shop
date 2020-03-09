@@ -1,0 +1,16 @@
+<Food>
+	_Salata
+		*Shopska,9.00,img/jackAndJonesJeans.jpg
+		*Ovcharska,12.00,img/diorPants.jpg
+	_Meze  
+		*Lukanka,9.99,img/jackAndJones.jpg
+		*File elena,20.00,img/dior.jpg
+</Food>
+<Drinks>
+	_Vodka
+		*Savoy,8.99,img/jackAndJonesJeans.jpg
+		*Belvedere,100.00,img/diorPants.jpg
+	_Rakia
+		*Buras 63,14.00,img/jackAndJones.jpg
+		*Peshterska,9.00,img/dior.jpg
+</Drinks>
